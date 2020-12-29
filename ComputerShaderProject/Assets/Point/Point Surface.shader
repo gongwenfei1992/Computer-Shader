@@ -7,7 +7,7 @@
 	SubShader {
 		CGPROGRAM
 		#pragma surface ConfigureSurface Standard fullforwardshadows
-		#pragma target 3.0
+		#pragma target 4.5
 
 		struct Input {
 			float3 worldPos;

@@ -521,8 +521,8 @@ MonoBehaviour:
   resolution: 1000
   function: 4
   transitionMode: 0
-  functionDuration: 1
-  transitionDuration: 0
+  functionDuration: 2
+  transitionDuration: 0.6
 --- !u!4 &1553533507
 Transform:
   m_ObjectHideFlags: 0
